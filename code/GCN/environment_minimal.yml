@@ -1,0 +1,14 @@
+name: gcn_ab
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - rdkit
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - pip
+  - pip:
+      - torch

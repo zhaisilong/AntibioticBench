@@ -1,0 +1,11 @@
+# Core environment used by the scripts. Install a CUDA-enabled PyTorch build separately.
+torch
+transformers>=4.35,<5
+huggingface-hub
+safetensors
+tokenizers
+numpy
+pandas
+scipy
+scikit-learn
+rdkit

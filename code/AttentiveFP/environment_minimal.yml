@@ -1,0 +1,11 @@
+name: AttentiveFP
+channels: [pyg, pytorch, nvidia, conda-forge]
+dependencies:
+  - python>=3.10
+  - pytorch
+  - pytorch-geometric
+  - rdkit
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn

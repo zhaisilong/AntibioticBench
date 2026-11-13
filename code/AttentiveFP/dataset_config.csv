@@ -1,0 +1,13 @@
+dataset_name,task,threshold_for_boundary,data_path,classification_csv,regression_csv
+1_Staphylococcus_median_16_MolWt_50_1000_value_le_8192_multitask,both,16,,,
+2_Escherichia_median_32_MolWt_50_1000_value_le_8192_multitask,both,32,,,
+3_Pseudomonas_median_32_MolWt_50_1000_value_le_8192_multitask,both,32,,,
+4_Bacillus_median_16_MolWt_50_1000_value_le_8192_multitask,both,16,,,
+5_Enterococcus_median_8_MolWt_50_1000_value_le_8192_multitask,both,8,,,
+6_Klebsiella_median_32_MolWt_50_1000_value_le_8192_multitask,both,32,,,
+7_Streptococcus_median_4_MolWt_50_1000_value_le_8192_multitask,both,4,,,
+8_Acinetobacter_median_16_MolWt_50_1000_value_le_8192_multitask,both,16,,,
+10_Salmonella_median_32_MolWt_50_1000_value_le_8192_multitask,both,32,,,
+11_Mycobacterium_median_8_MolWt_50_1000_value_le_8192_multitask,both,8,,,
+14_Candida_median_32_MolWt_50_1000_value_le_8192_multitask,both,32,,,
+15_Micrococcus_median_32_MolWt_50_1000_value_le_8192_multitask,both,32,,,

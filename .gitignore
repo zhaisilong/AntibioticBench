@@ -1,0 +1,28 @@
+# Original materials and local-only preparation tools
+/resource/
+/.local-tools/
+/outputs/
+/**/outputs/
+/**/outputs_*/
+/.cache/
+
+# Python and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Local logs, caches, and execution outputs
+*.log
+*.out
+*.err
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.idea/
+
+# Zenodo upload staging directory
+/tmp/
